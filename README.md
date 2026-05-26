@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/codewithprince0/codewithprince0/commit/cd300edba09b7d26720ad0660ff8aa3f35fb9760" width="50%">
+  <img src="https://raw.githubusercontent.com/codewithprince0/codewithprince0/main/ChatGPT%20Image%20May%2026,%202026,%2002_25_49%20PM.png" width="100%">
 </p>
-
----
 
 # 🚀 About Me
 - 🎓 BCA Student
