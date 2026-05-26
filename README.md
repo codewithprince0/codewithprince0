@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prince Raj</h1>
-<h3 align="center">BCA Student | Learning Data Analyst & Programming</h3>
+<p align="center">
+  <img src="file:///C:/Users/welcome/Downloads/github_photo.pdf" width="100%">
+</p>
 
 ---
 
