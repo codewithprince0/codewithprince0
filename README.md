@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithprince0/codewithprince0/main/ChatGPT%20Image%20May%2026,%202026,%2002_25_49%20PM.png" width="50%">
+  <img src="https://raw.githubusercontent.com/codewithprince0/codewithprince0/main/ChatGPT%20Image%20May%2026,%202026,%2002_25_49%20PM.png" width="100%">
 </p>
 
 # 🚀 About Me
@@ -12,9 +12,7 @@
 
 # 🛠️ Skills
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)   ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codewithprince0&show_icons=true&theme=tokyonight)
 
